@@ -7,3 +7,5 @@ PASOS PARA GITHUB
 6 - Antes de subir el archivo, hay que poner el commit remote de la pagina del repositorio.
 En caso de que el repositorio sea nuevo.
 7- Subir el archivo al repositorio : git push origin master
+
+	//Gracias Compañero! :P
