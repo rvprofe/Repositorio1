@@ -1,0 +1,9 @@
+PASOS PARA GITHUB
+1 - Crear un directorio
+2 - Acceder al directorio y iniciar el git con : git init
+3 - Crear un archivo.
+4 - Añadir el archivo mediante : git add . //. sirve para todos los archivos
+5 - Crear Commit (comentario de acciones) : git commit -m "MENSAJE"
+6 - Antes de subir el archivo, hay que poner el commit remote de la pagina del repositorio.
+En caso de que el repositorio sea nuevo.
+7- Subir el archivo al repositorio : git push origin master
